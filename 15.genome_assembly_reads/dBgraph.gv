@@ -1,0 +1,10 @@
+digraph dBgraph {
+	TAA -> AAT
+	TCT -> CTG
+	TGT -> GTA
+	TTA -> TAC
+	GAT -> ATT
+	ACA -> CAG
+	AAT -> ATC
+	AGA -> GAT
+}
